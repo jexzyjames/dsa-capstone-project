@@ -1,2 +1,2 @@
 # dsa-capstone-project
-a capstone project 
+A capstone project for Digital Skill-Up Africa program
